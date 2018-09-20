@@ -6,3 +6,6 @@ Issue Test Project
 
 
 ### 2.add 2 2018年9月19日22:40:57
+
+
+#### 3.增加了index js
